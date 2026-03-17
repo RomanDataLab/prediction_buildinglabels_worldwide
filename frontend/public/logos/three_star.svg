@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <defs>
+    <linearGradient id="tg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F44336"/>
+      <stop offset="100%" stop-color="#C62828"/>
+    </linearGradient>
+  </defs>
+  <circle cx="60" cy="60" r="56" fill="url(#tg)"/>
+  <circle cx="60" cy="60" r="50" fill="none" stroke="#FFD600" stroke-width="2" opacity="0.5"/>
+  <g transform="translate(60,30)" fill="#FFD600" opacity="0.95">
+    <polygon points="0,-12 3,-4 11,-4 5,1 7,10 0,5 -7,10 -5,1 -11,-4 -3,-4"/>
+    <polygon points="-18,-2 -15,6 -7,6 -13,11 -11,20 -18,15 -25,20 -23,11 -29,6 -21,6" transform="scale(0.7)"/>
+    <polygon points="18,-2 21,6 29,6 23,11 25,20 18,15 11,20 13,11 7,6 15,6" transform="scale(0.7)"/>
+  </g>
+  <text x="60" y="76" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="bold" fill="#fff" letter-spacing="1">THREE STAR</text>
+  <text x="60" y="100" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="8" fill="#FFCDD2" letter-spacing="1">CHINA GREEN BLDG</text>
+</svg>

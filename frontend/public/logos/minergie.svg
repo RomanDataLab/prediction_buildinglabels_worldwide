@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="306.43326"
+   height="69.140121"
+   id="svg3026"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="Minergie-Logo.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs3028">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath429">
+      <path
+         d="M 56.693,730.742 L 332.999,730.742 L 332.999,822.331 L 56.693,822.331 L 56.693,730.742 z"
+         id="path431" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath75">
+      <path
+         d="M 56.693,730.742 L 344.211,730.742 L 344.211,822.331 L 56.693,822.331 L 56.693,730.742 z"
+         id="path77" />
+    </clipPath>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective3034" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.3175623"
+     inkscape:cx="230.43692"
+     inkscape:cy="61.331311"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1024"
+     inkscape:window-height="678"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4" />
+  <metadata
+     id="metadata3031">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-70.12243,-421.61105)">
+    <g
+       id="g405"
+       transform="matrix(1.25,0,0,-1.25,109.63493,427.57922)">
+      <path
+         d="M 0,0 L 0,-45.283 L -6.774,-45.283 L -6.774,-9.909 L -6.899,-9.909 L -13.924,-45.283 L -17.687,-45.283 L -24.712,-9.909 L -24.837,-9.909 L -24.837,-45.283 L -31.61,-45.283 L -31.61,0 L -21.387,0 L -15.868,-26.467 L -15.742,-26.467 L -10.223,0 L 0,0 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path407" />
+    </g>
+    <path
+       d="M 119.90343,427.57985 L 129.62468,427.57985 L 129.62468,484.1836 L 119.90343,484.1836 L 119.90343,427.57985 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path409" />
+    <g
+       id="g411"
+       transform="matrix(1.25,0,0,-1.25,140.35718,484.18322)">
+      <path
+         d="M 0,0 L 0,45.283 L 7.213,45.283 L 16.683,19.38 L 16.809,19.38 L 16.809,45.283 L 23.833,45.283 L 23.833,0 L 17.06,0 L 7.15,28.286 L 7.024,28.286 L 7.024,0 L 0,0 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path413" />
+    </g>
+    <g
+       id="g415"
+       transform="matrix(1.25,0,0,-1.25,179.5663,484.18322)">
+      <path
+         d="M 0,0 L 0,45.283 L 20.822,45.283 L 20.822,38.51 L 7.777,38.51 L 7.777,26.844 L 17.812,26.844 L 17.812,20.07 L 7.777,20.07 L 7.777,6.774 L 21.701,6.774 L 21.701,0 L 0,0 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path417" />
+    </g>
+    <g
+       id="g419"
+       transform="matrix(1.25,0,0,-1.25,224.09268,484.18322)">
+      <path
+         d="M 0,0 L -7.777,0 L -7.777,45.283 L 3.136,45.283 C 11.854,45.283 16.307,41.583 16.307,31.924 C 16.307,24.649 13.484,21.701 10.85,20.509 L 17.436,0 L 9.534,0 L 4.014,18.753 C 3.01,18.628 1.38,18.565 0,18.565 L 0,0 z M 0,24.962 L 2.76,24.962 C 6.962,24.962 8.529,26.531 8.529,31.924 C 8.529,37.318 6.962,38.886 2.76,38.886 L 0,38.886 L 0,24.962"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path421" />
+    </g>
+    <path
+       d="M 328.97593,427.57985 L 338.69718,427.57985 L 338.69718,484.1836 L 328.97593,484.1836 L 328.97593,427.57985 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path423" />
+    <g
+       transform="matrix(1.25,0,0,-1.25,-0.7440729,1449.5248)"
+       id="g425">
+      <g
+         id="g427"
+         clip-path="url(#clipPath429)">
+        <g
+           id="g433"
+           transform="translate(280.1388,772.2733)">
+          <path
+             d="M 0,0 L 0,45.283 L 20.823,45.283 L 20.823,38.51 L 7.777,38.51 L 7.777,26.844 L 17.812,26.844 L 17.812,20.07 L 7.777,20.07 L 7.777,6.774 L 21.701,6.774 L 21.701,0 L 0,0 z"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path435" />
+        </g>
+        <g
+           id="g437"
+           transform="translate(253.032,801.3259)">
+          <path
+             d="M 0,0 C -8.167,-4.003 -25.24,-7.597 -24.913,-7.434 L -26.711,-11.027 C -27.691,-16.01 -21.972,-14.703 -18.95,-14.295 C -15.724,-13.802 -12.572,-13.193 -9.486,-12.381 C -17.312,-21.07 -31.19,-26.593 -41.659,-18.379 C -47.295,0.082 -26.465,13.805 -9.965,14.621 C -9.965,14.621 -9.452,14.939 -8.963,15.244 L -6.698,12.008 C -5.799,12.579 -4.819,13.151 -3.921,13.723 L -4.656,19.768 C -22.054,25.322 -41.25,14.294 -49.174,-1.797 C -52.114,-7.76 -52.768,-14.785 -49.663,-20.503 C -40.579,-37.144 -18.209,-31.786 -5.512,-21.411 C -6.014,-25.105 -6.35,-28.824 -6.78,-32.51 L 0.653,-34.307 C 3.512,-27.854 2.696,-20.747 4.33,-14.131 L 0,0"
+             style="fill:#e53138;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path439" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

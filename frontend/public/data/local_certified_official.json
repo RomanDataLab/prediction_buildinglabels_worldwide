@@ -1,0 +1,223 @@
+{
+  "scores_by_year": {
+    "2025": {
+      "FR": {
+        "local_certified_buildings_official": 3139698,
+        "local_certified_period": "2025 (existing dwellings)",
+        "local_certified_as_of": "2026-01-20",
+        "local_certified_source": "https://www.data.gouv.fr/fr/reuses/nombre-de-dpe-etablis-en-2025-selon-la-consommation-denergie-primaire-du-logement-existant/",
+        "local_certified_quality": "official_open_data"
+      },
+      "IE": {
+        "local_certified_buildings_official": 153558,
+        "local_certified_period": "2024 annual",
+        "local_certified_as_of": "2024-12-31",
+        "local_certified_source": "https://www.cso.ie/en/releasesandpublications/ep/p-dber/domesticbuildingenergyratingsquarter42024/",
+        "local_certified_quality": "official_statistics"
+      },
+      "NL": {
+        "local_certified_buildings_official": 669938,
+        "local_certified_period": "2024 annual new registrations",
+        "local_certified_as_of": "2024-12-31",
+        "local_certified_source": "https://www.rvo.nl/onderwerpen/wetten-en-regels-gebouwen/informatie-epa/aantallen-nieuwe-energielabels-jaar",
+        "local_certified_quality": "official_registry_stats"
+      },
+      "GB": {
+        "local_certified_buildings_official": 400000,
+        "local_certified_period": "2025 Q4 (England and Wales)",
+        "local_certified_as_of": "2025-12-31",
+        "local_certified_source": "https://www.gov.uk/government/statistics/energy-performance-of-building-certificates-in-england-and-wales-october-to-december-2025/energy-performance-of-buildings-certificates-statistical-release-october-to-december-2025-england-and-wales",
+        "local_certified_quality": "official_statistics_partial_scope"
+      },
+      "SE": {
+        "local_certified_buildings_official": 617000,
+        "local_certified_period": "cumulative register total (to Apr 2025)",
+        "local_certified_as_of": "2025-04-30",
+        "local_certified_source": "https://www.boverket.se/sv/energideklaration/energideklaration/bakgrund/statistik-om-energideklaration",
+        "local_certified_quality": "official_registry_cumulative"
+      },
+      "BE": {
+        "local_certified_buildings_official": 220000,
+        "local_certified_period": "2023 annual issuances (Flanders)",
+        "local_certified_as_of": "2023-12-31",
+        "local_certified_source": "https://biv.be/nieuws/artikels/cijfers-rond-klachten-en-controles-inzake-epc",
+        "local_certified_quality": "regional_official_report"
+      },
+      "IT": {
+        "local_certified_buildings_official": 1100000,
+        "local_certified_period": "2023 annual SIAPE registrations",
+        "local_certified_as_of": "2024-12-31",
+        "local_certified_source": "https://www.pubblicazioni.enea.it/le-pubblicazioni-enea/edizioni-enea/anno-2024/rapporto-annuale-sulla-certificazione-energetica-degli-edifici-annualita-2024.html",
+        "local_certified_quality": "official_annual_report"
+      },
+      "PT": {
+        "local_certified_buildings_official": 247516,
+        "local_certified_period": "2024 annual (sum of official quarterly SCE statistical CSVs)",
+        "local_certified_as_of": "2025-01-03",
+        "local_certified_source": "https://www.sce.pt/estatisticas/download-de-informacao-estatistica/",
+        "local_certified_quality": "official_open_data_derived_aggregate"
+      },
+      "DK": {
+        "local_certified_buildings_official": 537000,
+        "local_certified_period": "valid labels snapshot (mid-Dec 2024)",
+        "local_certified_as_of": "2024-12-15",
+        "local_certified_source": "https://emovision.dk/status-over-energimaerker-i-danmark/",
+        "local_certified_quality": "secondary_public_summary"
+      },
+      "PL": {
+        "local_certified_buildings_official": 1201491,
+        "local_certified_period": "registry total snapshot",
+        "local_certified_as_of": "2024-12-31",
+        "local_certified_source": "https://www.audytyiswiadectwa.pl/index.php/home?catid=2&id=7%3Acentralny-rejestr-swiadectw-energetycznych-budynkow&view=article",
+        "local_certified_quality": "secondary_public_summary"
+      },
+      "ES": {
+        "local_certified_buildings_official": 126273,
+        "local_certified_period": "2024 annual (Madrid regional register only)",
+        "local_certified_as_of": "2026-03-09",
+        "local_certified_source": "https://datos.gob.es/es/catalogo/a13002908-registro-de-certificados-de-eficiencia-energetica-de-edificios",
+        "local_certified_quality": "official_open_data_partial_scope"
+      },
+      "FI": {
+        "local_certified_buildings_official": 290000,
+        "local_certified_period": "cumulative valid certificates (Jan 2025)",
+        "local_certified_as_of": "2025-02-07",
+        "local_certified_source": "https://www.ara.fi/fi/ajankohtaista/tuore-raportti-energiatodistuksista-rakennusten-energiatehokkuus-paranee-edelleen",
+        "local_certified_quality": "official_registry_cumulative"
+      },
+      "HU": {
+        "local_certified_buildings_official": 1200000,
+        "local_certified_period": "cumulative authentic certificates (2013-2024)",
+        "local_certified_as_of": "2024-12-31",
+        "local_certified_source": "https://lechnerkozpont.hu/cikk/hiteles-energiatanusitvanyok-millios-nagysagrendben",
+        "local_certified_quality": "official_registry_cumulative"
+      },
+      "US": {
+        "local_certified_buildings_official": 43000,
+        "local_certified_period": "cumulative Energy Star certified commercial buildings (1992-2024)",
+        "local_certified_as_of": "2024-12-31",
+        "local_certified_source": "https://energystar.gov/buildings/about-us/facts-and-stats",
+        "local_certified_quality": "official_statistics"
+      },
+      "SG": {
+        "local_certified_buildings_official": 2590,
+        "local_certified_period": "cumulative BCA Green Mark certified (2005-2025)",
+        "local_certified_as_of": "2025-03-31",
+        "local_certified_source": "https://data.gov.sg/datasets/d_c4bd082b48fa7611713f39e23d250c27/view",
+        "local_certified_quality": "official_statistics"
+      },
+      "JP": {
+        "local_certified_buildings_official": 1036333,
+        "local_certified_period": "cumulative BELS certificates issued (Apr 2016 - Jan 2026)",
+        "local_certified_as_of": "2026-01-31",
+        "local_certified_source": "https://bels.hyoukakyoukai.or.jp/cases",
+        "local_certified_quality": "official_registry_cumulative"
+      },
+      "KR": {
+        "local_certified_buildings_official": 25000,
+        "local_certified_period": "estimated cumulative G-SEED certified (2002-2024)",
+        "local_certified_as_of": "2024-12-31",
+        "local_certified_source": "https://www.kict.re.kr/researchResultWeb/getResearchResultView.es?id=271&mid=a10301000000",
+        "local_certified_quality": "secondary_public_summary"
+      },
+      "GR": {
+        "local_certified_buildings_official": 350000,
+        "local_certified_period": "cumulative EPCs via easykenak platform (to 2025)",
+        "local_certified_as_of": "2025-01-01",
+        "local_certified_source": "https://www.easykenak.gr/?action=abouteng",
+        "local_certified_quality": "secondary_public_summary"
+      },
+      "IN": {
+        "local_certified_buildings_official": 10870,
+        "local_certified_period": "cumulative IGBC (7,000) + GRIHA (3,870) certified projects (to 2024)",
+        "local_certified_as_of": "2024-12-31",
+        "local_certified_source": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/india-has-over-7000-igbc-certified-projects/articleshow/113012835.cms",
+        "local_certified_quality": "official_statistics"
+      },
+      "TR": {
+        "local_certified_buildings_official": 1430000,
+        "local_certified_period": "cumulative EKB (Enerji Kimlik Belgesi) issued since 2011",
+        "local_certified_as_of": "2024-12-31",
+        "local_certified_source": "https://www.ensonhaber.com/emlak/enerji-kimlik-belgesi-duzenlenen-bina-sayisi-14-milyona-ulasti",
+        "local_certified_quality": "official_statistics"
+      },
+      "TW": {
+        "local_certified_buildings_official": 12585,
+        "local_certified_period": "cumulative EEWH certified (1999 - Jan 2024)",
+        "local_certified_as_of": "2024-01-31",
+        "local_certified_source": "https://resourcehub.bakermckenzie.com/en/resources/global-sustainable-buildings/asia-pacific/taiwan/topics/green-certification",
+        "local_certified_quality": "official_statistics"
+      },
+      "MY": {
+        "local_certified_buildings_official": 783,
+        "local_certified_period": "cumulative GBI certified projects (to Dec 2025)",
+        "local_certified_as_of": "2025-12-31",
+        "local_certified_source": "https://www.greenbuildingindex.org/how-gbi-works/gbi-executive-summary/",
+        "local_certified_quality": "official_statistics"
+      },
+      "CO": {
+        "local_certified_buildings_official": 1313,
+        "local_certified_period": "cumulative EDGE certified projects (to Jan 2026)",
+        "local_certified_as_of": "2026-01-31",
+        "local_certified_source": "https://camacol.co/prensa/noticias/colombia-lider-mundial-en-construccion-sostenible-superamos-el-umbral-de-20",
+        "local_certified_quality": "official_statistics"
+      },
+      "KE": {
+        "local_certified_buildings_official": 212,
+        "local_certified_period": "cumulative EDGE certified buildings (to 2025)",
+        "local_certified_as_of": "2025-05-01",
+        "local_certified_source": "https://www.standardmedia.co.ke/amp/business/article/2001518351/kenya-attains-key-milestone-in-sustainable-buildings",
+        "local_certified_quality": "official_statistics"
+      },
+      "NZ": {
+        "local_certified_buildings_official": 240,
+        "local_certified_period": "cumulative unique Green Star certified buildings (to Jul 2024)",
+        "local_certified_as_of": "2024-07-31",
+        "local_certified_source": "https://nzgbc.org.nz/news-and-media/green-star-passes-300-new-building-certifications",
+        "local_certified_quality": "official_statistics"
+      },
+      "AU": {
+        "local_certified_buildings_official": 5660,
+        "local_certified_period": "cumulative Green Star certified projects (21 years to 2024)",
+        "local_certified_as_of": "2024-12-31",
+        "local_certified_source": "https://new.gbca.org.au/news/gbca-media-releases/record-growth-in-sustainable-building-practices-gbcas-year-in-focus-report",
+        "local_certified_quality": "official_statistics"
+      },
+      "AE": {
+        "local_certified_buildings_official": 11311,
+        "local_certified_period": "cumulative Estidama Pearl rated (592 buildings + 10,719 villas)",
+        "local_certified_as_of": "2024-12-31",
+        "local_certified_source": "https://fidic.org/sites/default/files/R%26C%20Estidama%20-%20final%20v2.pdf",
+        "local_certified_quality": "secondary_public_summary"
+      },
+      "ZA": {
+        "local_certified_buildings_official": 1200,
+        "local_certified_period": "cumulative GBCSA certified (Green Star, Net Zero, EDGE)",
+        "local_certified_as_of": "2024-12-31",
+        "local_certified_source": "https://www.gbcsa.org.za/news/green-building-certification-the-key-to-eliminating-greenwashing-and-unlocking-sustainable-value/",
+        "local_certified_quality": "secondary_public_summary"
+      },
+      "VN": {
+        "local_certified_buildings_official": 559,
+        "local_certified_period": "cumulative green-certified buildings all systems (to 2024)",
+        "local_certified_as_of": "2024-12-31",
+        "local_certified_source": "https://www.hanoitimes.vn/number-of-green-buildings-in-vietnam-doubles-in-2024.642231.html",
+        "local_certified_quality": "secondary_public_summary"
+      },
+      "ID": {
+        "local_certified_buildings_official": 170,
+        "local_certified_period": "cumulative Greenship certifications (to Feb 2024)",
+        "local_certified_as_of": "2024-02-28",
+        "local_certified_source": "https://gbcindonesia.org/certbuilding",
+        "local_certified_quality": "secondary_public_summary"
+      },
+      "CA": {
+        "local_certified_buildings_official": 402249,
+        "local_certified_period": "cumulative Greener Homes Grant retrofits completed (2021-Nov 2025)",
+        "local_certified_as_of": "2025-11-30",
+        "local_certified_source": "https://prod-natural-resources.azure.cloud.nrcan-rncan.gc.ca/energy-efficiency/home-energy-efficiency/canada-greener-homes-initiative/canada-greener-homes-grant-glance-0",
+        "local_certified_quality": "official_statistics"
+      }
+    }
+  }
+}

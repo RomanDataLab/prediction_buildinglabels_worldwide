@@ -1,0 +1,1903 @@
+{
+  "scores_by_year": {
+    "2018": {
+      "AD": {
+        "leed": 2,
+        "breeam": 5,
+        "passivhaus": 3,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 110
+      },
+      "AE": {
+        "leed": 495,
+        "breeam": 200,
+        "passivhaus": 22,
+        "estidama": 480,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 8250
+      },
+      "AL": {
+        "leed": 7,
+        "breeam": 15,
+        "passivhaus": 7,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 440
+      },
+      "AM": {
+        "leed": 11,
+        "breeam": 15,
+        "passivhaus": 11,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 660
+      },
+      "AR": {
+        "leed": 66,
+        "breeam": 15,
+        "passivhaus": 6,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 825
+      },
+      "AT": {
+        "leed": 82,
+        "breeam": 750,
+        "passivhaus": 4400,
+        "dgnb": 360,
+        "nearly_zero_energy_buildings": 750,
+        "living_building_challenge": 0
+      },
+      "AU": {
+        "leed": 440,
+        "breeam": 150,
+        "passivhaus": 138,
+        "nabers": 2860,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 3,
+        "local_energy_label": 52250
+      },
+      "AZ": {
+        "leed": 33,
+        "breeam": 30,
+        "passivhaus": 8,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 1375
+      },
+      "BA": {
+        "leed": 8,
+        "breeam": 20,
+        "passivhaus": 8,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 330
+      },
+      "BE": {
+        "leed": 110,
+        "breeam": 3000,
+        "passivhaus": 275,
+        "nearly_zero_energy_buildings": 600,
+        "living_building_challenge": 0
+      },
+      "BG": {
+        "leed": 11,
+        "breeam": 75,
+        "passivhaus": 22,
+        "dgnb": 36,
+        "nearly_zero_energy_buildings": 300,
+        "living_building_challenge": 0
+      },
+      "BR": {
+        "leed": 880,
+        "breeam": 75,
+        "passivhaus": 14,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 6600
+      },
+      "BY": {
+        "leed": 16,
+        "breeam": 40,
+        "passivhaus": 22,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 2750
+      },
+      "CA": {
+        "leed": 3300,
+        "breeam": 100,
+        "passivhaus": 220,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 8,
+        "local_energy_label": 46750
+      },
+      "CH": {
+        "leed": 110,
+        "breeam": 750,
+        "passivhaus": 1925,
+        "dgnb": 225,
+        "minergie": 45750,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0
+      },
+      "CL": {
+        "leed": 138,
+        "breeam": 50,
+        "passivhaus": 22,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 2200
+      },
+      "CN": {
+        "leed": 2475,
+        "breeam": 300,
+        "passivhaus": 165,
+        "three_star": 9800,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 209000
+      },
+      "CO": {
+        "leed": 110,
+        "breeam": 30,
+        "passivhaus": 6,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 1375
+      },
+      "CY": {
+        "leed": 16,
+        "breeam": 90,
+        "passivhaus": 16,
+        "dgnb": 14,
+        "nearly_zero_energy_buildings": 90,
+        "living_building_challenge": 0
+      },
+      "CZ": {
+        "leed": 82,
+        "breeam": 600,
+        "passivhaus": 220,
+        "nearly_zero_energy_buildings": 660,
+        "living_building_challenge": 0
+      },
+      "DE": {
+        "leed": 248,
+        "breeam": 2500,
+        "passivhaus": 16500,
+        "dgnb": 3420,
+        "nearly_zero_energy_buildings": 3600,
+        "living_building_challenge": 0
+      },
+      "DK": {
+        "leed": 82,
+        "breeam": 400,
+        "passivhaus": 193,
+        "dgnb": 270,
+        "nearly_zero_energy_buildings": 540,
+        "living_building_challenge": 0
+      },
+      "EE": {
+        "leed": 16,
+        "breeam": 200,
+        "passivhaus": 99,
+        "dgnb": 22,
+        "nearly_zero_energy_buildings": 150,
+        "living_building_challenge": 0
+      },
+      "EG": {
+        "leed": 55,
+        "breeam": 40,
+        "passivhaus": 3,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 1100
+      },
+      "ES": {
+        "leed": 220,
+        "breeam": 5000,
+        "passivhaus": 165,
+        "nearly_zero_energy_buildings": 1500,
+        "living_building_challenge": 0
+      },
+      "FI": {
+        "leed": 55,
+        "breeam": 500,
+        "passivhaus": 110,
+        "nearly_zero_energy_buildings": 660,
+        "living_building_challenge": 0
+      },
+      "FR": {
+        "leed": 193,
+        "breeam": 9000,
+        "passivhaus": 550,
+        "hqe": 372000,
+        "nearly_zero_energy_buildings": 4500,
+        "living_building_challenge": 0
+      },
+      "GB": {
+        "leed": 660,
+        "breeam": 210000,
+        "passivhaus": 825,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 286000
+      },
+      "GE": {
+        "leed": 19,
+        "breeam": 40,
+        "passivhaus": 11,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 825
+      },
+      "GR": {
+        "leed": 28,
+        "breeam": 200,
+        "passivhaus": 44,
+        "nearly_zero_energy_buildings": 240,
+        "living_building_challenge": 0
+      },
+      "HR": {
+        "leed": 11,
+        "breeam": 100,
+        "passivhaus": 38,
+        "dgnb": 18,
+        "nearly_zero_energy_buildings": 180,
+        "living_building_challenge": 0
+      },
+      "HU": {
+        "leed": 55,
+        "breeam": 300,
+        "passivhaus": 66,
+        "nearly_zero_energy_buildings": 480,
+        "living_building_challenge": 0
+      },
+      "ID": {
+        "leed": 110,
+        "breeam": 25,
+        "passivhaus": 2,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 1650
+      },
+      "IE": {
+        "leed": 82,
+        "breeam": 2000,
+        "passivhaus": 220,
+        "nearly_zero_energy_buildings": 420,
+        "living_building_challenge": 0
+      },
+      "IL": {
+        "leed": 220,
+        "breeam": 50,
+        "passivhaus": 28,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 2750
+      },
+      "IN": {
+        "leed": 1925,
+        "breeam": 200,
+        "passivhaus": 16,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 19250
+      },
+      "IS": {
+        "leed": 8,
+        "breeam": 60,
+        "passivhaus": 22,
+        "dgnb": 11,
+        "nearly_zero_energy_buildings": 45,
+        "living_building_challenge": 0
+      },
+      "IT": {
+        "leed": 302,
+        "breeam": 1500,
+        "passivhaus": 275,
+        "nearly_zero_energy_buildings": 1050,
+        "living_building_challenge": 0
+      },
+      "JP": {
+        "leed": 330,
+        "breeam": 60,
+        "passivhaus": 33,
+        "casbee": 350,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 264000
+      },
+      "KE": {
+        "leed": 28,
+        "breeam": 25,
+        "passivhaus": 3,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 440
+      },
+      "KG": {
+        "leed": 6,
+        "breeam": 8,
+        "passivhaus": 3,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 275
+      },
+      "KR": {
+        "leed": 660,
+        "breeam": 100,
+        "passivhaus": 44,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 35750
+      },
+      "KZ": {
+        "leed": 66,
+        "breeam": 50,
+        "passivhaus": 14,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 2200
+      },
+      "LI": {
+        "leed": 3,
+        "breeam": 10,
+        "passivhaus": 14,
+        "dgnb": 4,
+        "nearly_zero_energy_buildings": 15,
+        "living_building_challenge": 0
+      },
+      "LT": {
+        "leed": 16,
+        "breeam": 150,
+        "passivhaus": 66,
+        "dgnb": 22,
+        "nearly_zero_energy_buildings": 180,
+        "living_building_challenge": 0
+      },
+      "LU": {
+        "leed": 33,
+        "breeam": 600,
+        "passivhaus": 82,
+        "dgnb": 135,
+        "nearly_zero_energy_buildings": 120,
+        "living_building_challenge": 0
+      },
+      "LV": {
+        "leed": 11,
+        "breeam": 100,
+        "passivhaus": 44,
+        "dgnb": 18,
+        "nearly_zero_energy_buildings": 120,
+        "living_building_challenge": 0
+      },
+      "MC": {
+        "leed": 2,
+        "breeam": 8,
+        "passivhaus": 3,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 82
+      },
+      "MD": {
+        "leed": 8,
+        "breeam": 20,
+        "passivhaus": 16,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 1100
+      },
+      "ME": {
+        "leed": 6,
+        "breeam": 15,
+        "passivhaus": 6,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 275
+      },
+      "MK": {
+        "leed": 7,
+        "breeam": 20,
+        "passivhaus": 8,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 385
+      },
+      "MT": {
+        "leed": 11,
+        "breeam": 60,
+        "passivhaus": 8,
+        "dgnb": 9,
+        "nearly_zero_energy_buildings": 60,
+        "living_building_challenge": 0
+      },
+      "MX": {
+        "leed": 385,
+        "breeam": 40,
+        "passivhaus": 6,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 3300
+      },
+      "MY": {
+        "leed": 138,
+        "breeam": 50,
+        "passivhaus": 6,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 1650
+      },
+      "NG": {
+        "leed": 16,
+        "breeam": 12,
+        "passivhaus": 1,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 275
+      },
+      "NL": {
+        "leed": 193,
+        "breeam": 17500,
+        "passivhaus": 330,
+        "nearly_zero_energy_buildings": 1200,
+        "living_building_challenge": 0
+      },
+      "NO": {
+        "leed": 66,
+        "breeam": 1750,
+        "passivhaus": 165,
+        "nearly_zero_energy_buildings": 540,
+        "living_building_challenge": 0
+      },
+      "NZ": {
+        "leed": 110,
+        "breeam": 100,
+        "passivhaus": 99,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 1,
+        "local_energy_label": 13750
+      },
+      "PH": {
+        "leed": 82,
+        "breeam": 20,
+        "passivhaus": 2,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 825
+      },
+      "PL": {
+        "leed": 193,
+        "breeam": 1500,
+        "passivhaus": 193,
+        "nearly_zero_energy_buildings": 2700,
+        "living_building_challenge": 0
+      },
+      "PT": {
+        "leed": 44,
+        "breeam": 400,
+        "passivhaus": 66,
+        "nearly_zero_energy_buildings": 360,
+        "living_building_challenge": 0
+      },
+      "RO": {
+        "leed": 44,
+        "breeam": 250,
+        "passivhaus": 33,
+        "nearly_zero_energy_buildings": 840,
+        "living_building_challenge": 0
+      },
+      "RS": {
+        "leed": 28,
+        "breeam": 60,
+        "passivhaus": 22,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 1650
+      },
+      "RU": {
+        "leed": 275,
+        "breeam": 300,
+        "passivhaus": 110,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 24750
+      },
+      "SA": {
+        "leed": 220,
+        "breeam": 100,
+        "passivhaus": 4,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 2750
+      },
+      "SE": {
+        "leed": 165,
+        "breeam": 600,
+        "passivhaus": 330,
+        "nearly_zero_energy_buildings": 900,
+        "living_building_challenge": 0
+      },
+      "SG": {
+        "leed": 275,
+        "breeam": 100,
+        "passivhaus": 11,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 2475
+      },
+      "SI": {
+        "leed": 14,
+        "breeam": 125,
+        "passivhaus": 154,
+        "dgnb": 27,
+        "nearly_zero_energy_buildings": 135,
+        "living_building_challenge": 0
+      },
+      "SK": {
+        "leed": 14,
+        "breeam": 150,
+        "passivhaus": 88,
+        "dgnb": 32,
+        "nearly_zero_energy_buildings": 240,
+        "living_building_challenge": 0
+      },
+      "SM": {
+        "leed": 1,
+        "breeam": 4,
+        "passivhaus": 2,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 55
+      },
+      "TH": {
+        "leed": 82,
+        "breeam": 30,
+        "passivhaus": 3,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 1100
+      },
+      "TJ": {
+        "leed": 4,
+        "breeam": 5,
+        "passivhaus": 2,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 165
+      },
+      "TR": {
+        "leed": 330,
+        "breeam": 175,
+        "passivhaus": 33,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 6600
+      },
+      "TW": {
+        "leed": 193,
+        "breeam": 25,
+        "passivhaus": 11,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 4400
+      },
+      "UA": {
+        "leed": 44,
+        "breeam": 75,
+        "passivhaus": 44,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 4400
+      },
+      "US": {
+        "leed": 44000,
+        "breeam": 200,
+        "passivhaus": 440,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 60,
+        "local_energy_label": 330000
+      },
+      "UZ": {
+        "leed": 22,
+        "breeam": 20,
+        "passivhaus": 6,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 1100
+      },
+      "VA": {
+        "leed": 0,
+        "breeam": 1,
+        "passivhaus": 1,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 6
+      },
+      "VN": {
+        "leed": 110,
+        "breeam": 15,
+        "passivhaus": 2,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 1100
+      },
+      "ZA": {
+        "leed": 165,
+        "breeam": 400,
+        "passivhaus": 22,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 4400
+      }
+    },
+    "2021": {
+      "AD": {
+        "leed": 2,
+        "breeam": 7,
+        "passivhaus": 4,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 150
+      },
+      "AE": {
+        "leed": 675,
+        "breeam": 288,
+        "passivhaus": 30,
+        "estidama": 780,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 11250
+      },
+      "AL": {
+        "leed": 9,
+        "breeam": 22,
+        "passivhaus": 9,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 600
+      },
+      "AM": {
+        "leed": 15,
+        "breeam": 22,
+        "passivhaus": 15,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 900
+      },
+      "AR": {
+        "leed": 90,
+        "breeam": 22,
+        "passivhaus": 8,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 1125
+      },
+      "AT": {
+        "leed": 112,
+        "breeam": 1080,
+        "passivhaus": 6000,
+        "dgnb": 560,
+        "nearly_zero_energy_buildings": 3750,
+        "living_building_challenge": 0
+      },
+      "AU": {
+        "leed": 600,
+        "breeam": 216,
+        "passivhaus": 188,
+        "nabers": 3900,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 8,
+        "local_energy_label": 71250
+      },
+      "AZ": {
+        "leed": 45,
+        "breeam": 43,
+        "passivhaus": 11,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 1875
+      },
+      "BA": {
+        "leed": 11,
+        "breeam": 29,
+        "passivhaus": 11,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 450
+      },
+      "BE": {
+        "leed": 150,
+        "breeam": 4320,
+        "passivhaus": 375,
+        "nearly_zero_energy_buildings": 3000,
+        "living_building_challenge": 0
+      },
+      "BG": {
+        "leed": 15,
+        "breeam": 108,
+        "passivhaus": 30,
+        "dgnb": 56,
+        "nearly_zero_energy_buildings": 1500,
+        "living_building_challenge": 0
+      },
+      "BR": {
+        "leed": 1200,
+        "breeam": 108,
+        "passivhaus": 19,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 9000
+      },
+      "BY": {
+        "leed": 22,
+        "breeam": 58,
+        "passivhaus": 30,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 3750
+      },
+      "CA": {
+        "leed": 4500,
+        "breeam": 144,
+        "passivhaus": 300,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 16,
+        "local_energy_label": 63750
+      },
+      "CH": {
+        "leed": 150,
+        "breeam": 1080,
+        "passivhaus": 2625,
+        "dgnb": 350,
+        "minergie": 53680,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0
+      },
+      "CL": {
+        "leed": 188,
+        "breeam": 72,
+        "passivhaus": 30,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 3000
+      },
+      "CN": {
+        "leed": 3375,
+        "breeam": 432,
+        "passivhaus": 225,
+        "three_star": 16800,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 285000
+      },
+      "CO": {
+        "leed": 150,
+        "breeam": 43,
+        "passivhaus": 8,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 1875
+      },
+      "CY": {
+        "leed": 22,
+        "breeam": 130,
+        "passivhaus": 22,
+        "dgnb": 21,
+        "nearly_zero_energy_buildings": 450,
+        "living_building_challenge": 0
+      },
+      "CZ": {
+        "leed": 112,
+        "breeam": 864,
+        "passivhaus": 300,
+        "nearly_zero_energy_buildings": 3300,
+        "living_building_challenge": 0
+      },
+      "DE": {
+        "leed": 338,
+        "breeam": 3600,
+        "passivhaus": 22500,
+        "dgnb": 5320,
+        "nearly_zero_energy_buildings": 18000,
+        "living_building_challenge": 1
+      },
+      "DK": {
+        "leed": 112,
+        "breeam": 576,
+        "passivhaus": 262,
+        "dgnb": 420,
+        "nearly_zero_energy_buildings": 2700,
+        "living_building_challenge": 0
+      },
+      "EE": {
+        "leed": 22,
+        "breeam": 288,
+        "passivhaus": 135,
+        "dgnb": 35,
+        "nearly_zero_energy_buildings": 750,
+        "living_building_challenge": 0
+      },
+      "EG": {
+        "leed": 75,
+        "breeam": 58,
+        "passivhaus": 4,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 1500
+      },
+      "ES": {
+        "leed": 300,
+        "breeam": 7200,
+        "passivhaus": 225,
+        "nearly_zero_energy_buildings": 7500,
+        "living_building_challenge": 0
+      },
+      "FI": {
+        "leed": 75,
+        "breeam": 720,
+        "passivhaus": 150,
+        "nearly_zero_energy_buildings": 3300,
+        "living_building_challenge": 0
+      },
+      "FR": {
+        "leed": 262,
+        "breeam": 12960,
+        "passivhaus": 750,
+        "hqe": 483600,
+        "nearly_zero_energy_buildings": 22500,
+        "living_building_challenge": 1
+      },
+      "GB": {
+        "leed": 900,
+        "breeam": 302400,
+        "passivhaus": 1125,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 1,
+        "local_energy_label": 390000
+      },
+      "GE": {
+        "leed": 26,
+        "breeam": 58,
+        "passivhaus": 15,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 1125
+      },
+      "GR": {
+        "leed": 38,
+        "breeam": 288,
+        "passivhaus": 60,
+        "nearly_zero_energy_buildings": 1200,
+        "living_building_challenge": 0
+      },
+      "HR": {
+        "leed": 15,
+        "breeam": 144,
+        "passivhaus": 52,
+        "dgnb": 28,
+        "nearly_zero_energy_buildings": 900,
+        "living_building_challenge": 0
+      },
+      "HU": {
+        "leed": 75,
+        "breeam": 432,
+        "passivhaus": 90,
+        "nearly_zero_energy_buildings": 2400,
+        "living_building_challenge": 0
+      },
+      "ID": {
+        "leed": 150,
+        "breeam": 36,
+        "passivhaus": 3,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 2250
+      },
+      "IE": {
+        "leed": 112,
+        "breeam": 2880,
+        "passivhaus": 300,
+        "nearly_zero_energy_buildings": 2100,
+        "living_building_challenge": 0
+      },
+      "IL": {
+        "leed": 300,
+        "breeam": 72,
+        "passivhaus": 38,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 3750
+      },
+      "IN": {
+        "leed": 2625,
+        "breeam": 288,
+        "passivhaus": 22,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 26250
+      },
+      "IS": {
+        "leed": 11,
+        "breeam": 86,
+        "passivhaus": 30,
+        "dgnb": 18,
+        "nearly_zero_energy_buildings": 225,
+        "living_building_challenge": 0
+      },
+      "IT": {
+        "leed": 412,
+        "breeam": 2160,
+        "passivhaus": 375,
+        "nearly_zero_energy_buildings": 5250,
+        "living_building_challenge": 2
+      },
+      "JP": {
+        "leed": 450,
+        "breeam": 86,
+        "passivhaus": 45,
+        "casbee": 425,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 360000
+      },
+      "KE": {
+        "leed": 38,
+        "breeam": 36,
+        "passivhaus": 4,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 600
+      },
+      "KG": {
+        "leed": 8,
+        "breeam": 11,
+        "passivhaus": 4,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 375
+      },
+      "KR": {
+        "leed": 900,
+        "breeam": 144,
+        "passivhaus": 60,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 48750
+      },
+      "KZ": {
+        "leed": 90,
+        "breeam": 72,
+        "passivhaus": 19,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 3000
+      },
+      "LI": {
+        "leed": 4,
+        "breeam": 14,
+        "passivhaus": 19,
+        "dgnb": 7,
+        "nearly_zero_energy_buildings": 75,
+        "living_building_challenge": 0
+      },
+      "LT": {
+        "leed": 22,
+        "breeam": 216,
+        "passivhaus": 90,
+        "dgnb": 35,
+        "nearly_zero_energy_buildings": 900,
+        "living_building_challenge": 0
+      },
+      "LU": {
+        "leed": 45,
+        "breeam": 864,
+        "passivhaus": 112,
+        "dgnb": 210,
+        "nearly_zero_energy_buildings": 600,
+        "living_building_challenge": 0
+      },
+      "LV": {
+        "leed": 15,
+        "breeam": 144,
+        "passivhaus": 60,
+        "dgnb": 28,
+        "nearly_zero_energy_buildings": 600,
+        "living_building_challenge": 0
+      },
+      "MC": {
+        "leed": 3,
+        "breeam": 11,
+        "passivhaus": 4,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 112
+      },
+      "MD": {
+        "leed": 11,
+        "breeam": 29,
+        "passivhaus": 22,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 1500
+      },
+      "ME": {
+        "leed": 8,
+        "breeam": 22,
+        "passivhaus": 8,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 375
+      },
+      "MK": {
+        "leed": 9,
+        "breeam": 29,
+        "passivhaus": 11,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 525
+      },
+      "MT": {
+        "leed": 15,
+        "breeam": 86,
+        "passivhaus": 11,
+        "dgnb": 14,
+        "nearly_zero_energy_buildings": 300,
+        "living_building_challenge": 0
+      },
+      "MX": {
+        "leed": 525,
+        "breeam": 58,
+        "passivhaus": 8,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 4500
+      },
+      "MY": {
+        "leed": 188,
+        "breeam": 72,
+        "passivhaus": 8,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 2250
+      },
+      "NG": {
+        "leed": 22,
+        "breeam": 18,
+        "passivhaus": 2,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 375
+      },
+      "NL": {
+        "leed": 262,
+        "breeam": 25200,
+        "passivhaus": 450,
+        "nearly_zero_energy_buildings": 6000,
+        "living_building_challenge": 0
+      },
+      "NO": {
+        "leed": 90,
+        "breeam": 2520,
+        "passivhaus": 225,
+        "nearly_zero_energy_buildings": 2700,
+        "living_building_challenge": 0
+      },
+      "NZ": {
+        "leed": 150,
+        "breeam": 144,
+        "passivhaus": 135,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 4,
+        "local_energy_label": 18750
+      },
+      "PH": {
+        "leed": 112,
+        "breeam": 29,
+        "passivhaus": 2,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 1125
+      },
+      "PL": {
+        "leed": 262,
+        "breeam": 2160,
+        "passivhaus": 262,
+        "nearly_zero_energy_buildings": 13500,
+        "living_building_challenge": 0
+      },
+      "PT": {
+        "leed": 60,
+        "breeam": 576,
+        "passivhaus": 90,
+        "nearly_zero_energy_buildings": 1800,
+        "living_building_challenge": 0
+      },
+      "RO": {
+        "leed": 60,
+        "breeam": 360,
+        "passivhaus": 45,
+        "nearly_zero_energy_buildings": 4200,
+        "living_building_challenge": 0
+      },
+      "RS": {
+        "leed": 38,
+        "breeam": 86,
+        "passivhaus": 30,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 2250
+      },
+      "RU": {
+        "leed": 375,
+        "breeam": 432,
+        "passivhaus": 150,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 33750
+      },
+      "SA": {
+        "leed": 300,
+        "breeam": 144,
+        "passivhaus": 6,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 3750
+      },
+      "SE": {
+        "leed": 225,
+        "breeam": 864,
+        "passivhaus": 450,
+        "nearly_zero_energy_buildings": 4500,
+        "living_building_challenge": 0
+      },
+      "SG": {
+        "leed": 375,
+        "breeam": 144,
+        "passivhaus": 15,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 3375
+      },
+      "SI": {
+        "leed": 19,
+        "breeam": 180,
+        "passivhaus": 210,
+        "dgnb": 42,
+        "nearly_zero_energy_buildings": 675,
+        "living_building_challenge": 0
+      },
+      "SK": {
+        "leed": 19,
+        "breeam": 216,
+        "passivhaus": 120,
+        "dgnb": 49,
+        "nearly_zero_energy_buildings": 1200,
+        "living_building_challenge": 0
+      },
+      "SM": {
+        "leed": 2,
+        "breeam": 6,
+        "passivhaus": 3,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 75
+      },
+      "TH": {
+        "leed": 112,
+        "breeam": 43,
+        "passivhaus": 4,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 1500
+      },
+      "TJ": {
+        "leed": 6,
+        "breeam": 7,
+        "passivhaus": 2,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 225
+      },
+      "TR": {
+        "leed": 450,
+        "breeam": 252,
+        "passivhaus": 45,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 9000
+      },
+      "TW": {
+        "leed": 262,
+        "breeam": 36,
+        "passivhaus": 15,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 6000
+      },
+      "UA": {
+        "leed": 60,
+        "breeam": 108,
+        "passivhaus": 60,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 6000
+      },
+      "US": {
+        "leed": 60000,
+        "breeam": 288,
+        "passivhaus": 600,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 110,
+        "local_energy_label": 450000
+      },
+      "UZ": {
+        "leed": 30,
+        "breeam": 29,
+        "passivhaus": 8,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 1500
+      },
+      "VA": {
+        "leed": 0,
+        "breeam": 1,
+        "passivhaus": 1,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 8
+      },
+      "VN": {
+        "leed": 150,
+        "breeam": 22,
+        "passivhaus": 3,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 1500
+      },
+      "ZA": {
+        "leed": 225,
+        "breeam": 576,
+        "passivhaus": 30,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 6000
+      }
+    },
+    "2025": {
+      "AD": {
+        "leed": 3,
+        "breeam": 10,
+        "passivhaus": 6,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 200
+      },
+      "AE": {
+        "leed": 900,
+        "breeam": 400,
+        "passivhaus": 40,
+        "estidama": 1200,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 15000
+      },
+      "AL": {
+        "leed": 12,
+        "breeam": 30,
+        "passivhaus": 12,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 800
+      },
+      "AM": {
+        "leed": 20,
+        "breeam": 30,
+        "passivhaus": 20,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 1200
+      },
+      "AR": {
+        "leed": 120,
+        "breeam": 30,
+        "passivhaus": 10,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 1500
+      },
+      "AT": {
+        "leed": 150,
+        "breeam": 1500,
+        "passivhaus": 8000,
+        "dgnb": 800,
+        "nearly_zero_energy_buildings": 25000,
+        "living_building_challenge": 0
+      },
+      "AU": {
+        "leed": 800,
+        "breeam": 300,
+        "passivhaus": 250,
+        "nabers": 5200,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 14,
+        "local_energy_label": 95000
+      },
+      "AZ": {
+        "leed": 60,
+        "breeam": 60,
+        "passivhaus": 15,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 2500
+      },
+      "BA": {
+        "leed": 15,
+        "breeam": 40,
+        "passivhaus": 15,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 600
+      },
+      "BE": {
+        "leed": 200,
+        "breeam": 6000,
+        "passivhaus": 500,
+        "nearly_zero_energy_buildings": 20000,
+        "living_building_challenge": 0
+      },
+      "BG": {
+        "leed": 20,
+        "breeam": 150,
+        "passivhaus": 40,
+        "dgnb": 80,
+        "nearly_zero_energy_buildings": 10000,
+        "living_building_challenge": 0
+      },
+      "BR": {
+        "leed": 1600,
+        "breeam": 150,
+        "passivhaus": 25,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 12000
+      },
+      "BY": {
+        "leed": 30,
+        "breeam": 80,
+        "passivhaus": 40,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 5000
+      },
+      "CA": {
+        "leed": 6000,
+        "breeam": 200,
+        "passivhaus": 400,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 25,
+        "local_energy_label": 85000
+      },
+      "CH": {
+        "leed": 200,
+        "breeam": 1500,
+        "passivhaus": 3500,
+        "dgnb": 500,
+        "minergie": 61000,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0
+      },
+      "CL": {
+        "leed": 250,
+        "breeam": 100,
+        "passivhaus": 40,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 4000
+      },
+      "CN": {
+        "leed": 4500,
+        "breeam": 600,
+        "passivhaus": 300,
+        "three_star": 28000,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 380000
+      },
+      "CO": {
+        "leed": 200,
+        "breeam": 60,
+        "passivhaus": 10,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 2500
+      },
+      "CY": {
+        "leed": 30,
+        "breeam": 180,
+        "passivhaus": 30,
+        "dgnb": 30,
+        "nearly_zero_energy_buildings": 3000,
+        "living_building_challenge": 0
+      },
+      "CZ": {
+        "leed": 150,
+        "breeam": 1200,
+        "passivhaus": 400,
+        "nearly_zero_energy_buildings": 22000,
+        "living_building_challenge": 0
+      },
+      "DE": {
+        "leed": 450,
+        "breeam": 5000,
+        "passivhaus": 30000,
+        "dgnb": 7600,
+        "nearly_zero_energy_buildings": 120000,
+        "living_building_challenge": 3
+      },
+      "DK": {
+        "leed": 150,
+        "breeam": 800,
+        "passivhaus": 350,
+        "dgnb": 600,
+        "nearly_zero_energy_buildings": 18000,
+        "living_building_challenge": 0
+      },
+      "EE": {
+        "leed": 30,
+        "breeam": 400,
+        "passivhaus": 180,
+        "dgnb": 50,
+        "nearly_zero_energy_buildings": 5000,
+        "living_building_challenge": 0
+      },
+      "EG": {
+        "leed": 100,
+        "breeam": 80,
+        "passivhaus": 5,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 2000
+      },
+      "ES": {
+        "leed": 400,
+        "breeam": 10000,
+        "passivhaus": 300,
+        "nearly_zero_energy_buildings": 50000,
+        "living_building_challenge": 0
+      },
+      "FI": {
+        "leed": 100,
+        "breeam": 1000,
+        "passivhaus": 200,
+        "nearly_zero_energy_buildings": 22000,
+        "living_building_challenge": 0
+      },
+      "FR": {
+        "leed": 350,
+        "breeam": 18000,
+        "passivhaus": 1000,
+        "hqe": 620000,
+        "nearly_zero_energy_buildings": 150000,
+        "living_building_challenge": 2
+      },
+      "GB": {
+        "leed": 1200,
+        "breeam": 420000,
+        "passivhaus": 1500,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 3,
+        "local_energy_label": 520000
+      },
+      "GE": {
+        "leed": 35,
+        "breeam": 80,
+        "passivhaus": 20,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 1500
+      },
+      "GR": {
+        "leed": 50,
+        "breeam": 400,
+        "passivhaus": 80,
+        "nearly_zero_energy_buildings": 8000,
+        "living_building_challenge": 0
+      },
+      "HR": {
+        "leed": 20,
+        "breeam": 200,
+        "passivhaus": 70,
+        "dgnb": 40,
+        "nearly_zero_energy_buildings": 6000,
+        "living_building_challenge": 0
+      },
+      "HU": {
+        "leed": 100,
+        "breeam": 600,
+        "passivhaus": 120,
+        "nearly_zero_energy_buildings": 16000,
+        "living_building_challenge": 0
+      },
+      "ID": {
+        "leed": 200,
+        "breeam": 50,
+        "passivhaus": 4,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 3000
+      },
+      "IE": {
+        "leed": 150,
+        "breeam": 4000,
+        "passivhaus": 400,
+        "nearly_zero_energy_buildings": 14000,
+        "living_building_challenge": 0
+      },
+      "IL": {
+        "leed": 400,
+        "breeam": 100,
+        "passivhaus": 50,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 5000
+      },
+      "IN": {
+        "leed": 3500,
+        "breeam": 400,
+        "passivhaus": 30,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 35000
+      },
+      "IS": {
+        "leed": 15,
+        "breeam": 120,
+        "passivhaus": 40,
+        "dgnb": 25,
+        "nearly_zero_energy_buildings": 1500,
+        "living_building_challenge": 0
+      },
+      "IT": {
+        "leed": 550,
+        "breeam": 3000,
+        "passivhaus": 500,
+        "nearly_zero_energy_buildings": 35000,
+        "living_building_challenge": 5
+      },
+      "JP": {
+        "leed": 600,
+        "breeam": 120,
+        "passivhaus": 60,
+        "casbee": 500,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 480000
+      },
+      "KE": {
+        "leed": 50,
+        "breeam": 50,
+        "passivhaus": 5,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 800
+      },
+      "KG": {
+        "leed": 10,
+        "breeam": 15,
+        "passivhaus": 5,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 500
+      },
+      "KR": {
+        "leed": 1200,
+        "breeam": 200,
+        "passivhaus": 80,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 65000
+      },
+      "KZ": {
+        "leed": 120,
+        "breeam": 100,
+        "passivhaus": 25,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 4000
+      },
+      "LI": {
+        "leed": 5,
+        "breeam": 20,
+        "passivhaus": 25,
+        "dgnb": 10,
+        "nearly_zero_energy_buildings": 500,
+        "living_building_challenge": 0
+      },
+      "LT": {
+        "leed": 30,
+        "breeam": 300,
+        "passivhaus": 120,
+        "dgnb": 50,
+        "nearly_zero_energy_buildings": 6000,
+        "living_building_challenge": 0
+      },
+      "LU": {
+        "leed": 60,
+        "breeam": 1200,
+        "passivhaus": 150,
+        "dgnb": 300,
+        "nearly_zero_energy_buildings": 4000,
+        "living_building_challenge": 0
+      },
+      "LV": {
+        "leed": 20,
+        "breeam": 200,
+        "passivhaus": 80,
+        "dgnb": 40,
+        "nearly_zero_energy_buildings": 4000,
+        "living_building_challenge": 0
+      },
+      "MC": {
+        "leed": 4,
+        "breeam": 15,
+        "passivhaus": 5,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 150
+      },
+      "MD": {
+        "leed": 15,
+        "breeam": 40,
+        "passivhaus": 30,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 2000
+      },
+      "ME": {
+        "leed": 10,
+        "breeam": 30,
+        "passivhaus": 10,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 500
+      },
+      "MK": {
+        "leed": 12,
+        "breeam": 40,
+        "passivhaus": 15,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 700
+      },
+      "MT": {
+        "leed": 20,
+        "breeam": 120,
+        "passivhaus": 15,
+        "dgnb": 20,
+        "nearly_zero_energy_buildings": 2000,
+        "living_building_challenge": 0
+      },
+      "MX": {
+        "leed": 700,
+        "breeam": 80,
+        "passivhaus": 10,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 6000
+      },
+      "MY": {
+        "leed": 250,
+        "breeam": 100,
+        "passivhaus": 10,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 3000
+      },
+      "NG": {
+        "leed": 30,
+        "breeam": 25,
+        "passivhaus": 2,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 500
+      },
+      "NL": {
+        "leed": 350,
+        "breeam": 35000,
+        "passivhaus": 600,
+        "nearly_zero_energy_buildings": 40000,
+        "living_building_challenge": 1
+      },
+      "NO": {
+        "leed": 120,
+        "breeam": 3500,
+        "passivhaus": 300,
+        "nearly_zero_energy_buildings": 18000,
+        "living_building_challenge": 0
+      },
+      "NZ": {
+        "leed": 200,
+        "breeam": 200,
+        "passivhaus": 180,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 8,
+        "local_energy_label": 25000
+      },
+      "PH": {
+        "leed": 150,
+        "breeam": 40,
+        "passivhaus": 3,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 1500
+      },
+      "PL": {
+        "leed": 350,
+        "breeam": 3000,
+        "passivhaus": 350,
+        "nearly_zero_energy_buildings": 90000,
+        "living_building_challenge": 0
+      },
+      "PT": {
+        "leed": 80,
+        "breeam": 800,
+        "passivhaus": 120,
+        "nearly_zero_energy_buildings": 12000,
+        "living_building_challenge": 0
+      },
+      "RO": {
+        "leed": 80,
+        "breeam": 500,
+        "passivhaus": 60,
+        "nearly_zero_energy_buildings": 28000,
+        "living_building_challenge": 0
+      },
+      "RS": {
+        "leed": 50,
+        "breeam": 120,
+        "passivhaus": 40,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 3000
+      },
+      "RU": {
+        "leed": 500,
+        "breeam": 600,
+        "passivhaus": 200,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 45000
+      },
+      "SA": {
+        "leed": 400,
+        "breeam": 200,
+        "passivhaus": 8,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 5000
+      },
+      "SE": {
+        "leed": 300,
+        "breeam": 1200,
+        "passivhaus": 600,
+        "nearly_zero_energy_buildings": 30000,
+        "living_building_challenge": 1
+      },
+      "SG": {
+        "leed": 500,
+        "breeam": 200,
+        "passivhaus": 20,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 4500
+      },
+      "SI": {
+        "leed": 25,
+        "breeam": 250,
+        "passivhaus": 280,
+        "dgnb": 60,
+        "nearly_zero_energy_buildings": 4500,
+        "living_building_challenge": 0
+      },
+      "SK": {
+        "leed": 25,
+        "breeam": 300,
+        "passivhaus": 160,
+        "dgnb": 70,
+        "nearly_zero_energy_buildings": 8000,
+        "living_building_challenge": 0
+      },
+      "SM": {
+        "leed": 2,
+        "breeam": 8,
+        "passivhaus": 4,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 100
+      },
+      "TH": {
+        "leed": 150,
+        "breeam": 60,
+        "passivhaus": 5,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 2000
+      },
+      "TJ": {
+        "leed": 8,
+        "breeam": 10,
+        "passivhaus": 3,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 300
+      },
+      "TR": {
+        "leed": 600,
+        "breeam": 350,
+        "passivhaus": 60,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 12000
+      },
+      "TW": {
+        "leed": 350,
+        "breeam": 50,
+        "passivhaus": 20,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 8000
+      },
+      "UA": {
+        "leed": 80,
+        "breeam": 150,
+        "passivhaus": 80,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 8000
+      },
+      "US": {
+        "leed": 80000,
+        "breeam": 400,
+        "passivhaus": 800,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 165,
+        "local_energy_label": 600000
+      },
+      "UZ": {
+        "leed": 40,
+        "breeam": 40,
+        "passivhaus": 10,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 2000
+      },
+      "VA": {
+        "leed": 0,
+        "breeam": 2,
+        "passivhaus": 1,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 10
+      },
+      "VN": {
+        "leed": 200,
+        "breeam": 30,
+        "passivhaus": 4,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 2000
+      },
+      "ZA": {
+        "leed": 300,
+        "breeam": 800,
+        "passivhaus": 40,
+        "nearly_zero_energy_buildings": 0,
+        "living_building_challenge": 0,
+        "local_energy_label": 8000
+      }
+    }
+  }
+}
