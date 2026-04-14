@@ -35,17 +35,17 @@ export function StatsPanel({ data, year, loading }: Props) {
         Global Overview {year}
       </h3>
 
-      <div className="grid grid-cols-2 gap-3">
-        <div className="bg-gray-900 rounded-lg p-3">
-          <div className="text-2xl font-bold text-emerald-400">{avgScore}</div>
-          <div className="text-xs text-gray-500">Avg. EE Score</div>
+      <div className="grid grid-cols-2 gap-2 md:gap-3">
+        <div className="bg-gray-900 rounded-lg p-2 md:p-3">
+          <div className="text-xl md:text-2xl font-bold text-emerald-400">{avgScore}</div>
+          <div className="text-[10px] md:text-xs text-gray-500">Avg. EE Score</div>
         </div>
 
-        <div className="bg-gray-900 rounded-lg p-3">
-          <div className="text-2xl font-bold text-blue-400">
+        <div className="bg-gray-900 rounded-lg p-2 md:p-3">
+          <div className="text-xl md:text-2xl font-bold text-blue-400">
             {totalCerts >= 1000 ? `${(totalCerts / 1000).toFixed(0)}k` : totalCerts}
           </div>
-          <div className="text-xs text-gray-500">Certified Buildings</div>
+          <div className="text-[10px] md:text-xs text-gray-500">Certified Buildings</div>
           {totalStock > 0 && (
             <div className="text-[10px] text-gray-600 mt-0.5">
               of {totalStock >= 1000000 ? `${(totalStock / 1000000).toFixed(1)}M` : totalStock} total
@@ -53,14 +53,14 @@ export function StatsPanel({ data, year, loading }: Props) {
           )}
         </div>
 
-        <div className="bg-gray-900 rounded-lg p-3">
-          <div className="text-2xl font-bold text-amber-400">{mandatoryCount}</div>
-          <div className="text-xs text-gray-500">Mandatory Codes</div>
+        <div className="bg-gray-900 rounded-lg p-2 md:p-3">
+          <div className="text-xl md:text-2xl font-bold text-amber-400">{mandatoryCount}</div>
+          <div className="text-[10px] md:text-xs text-gray-500">Mandatory Codes</div>
         </div>
 
-        <div className="bg-gray-900 rounded-lg p-3">
-          <div className="text-2xl font-bold text-cyan-400">{avgCoveragePct.toFixed(2)}%</div>
-          <div className="text-xs text-gray-500">Avg. Certified Coverage</div>
+        <div className="bg-gray-900 rounded-lg p-2 md:p-3">
+          <div className="text-xl md:text-2xl font-bold text-cyan-400">{avgCoveragePct.toFixed(2)}%</div>
+          <div className="text-[10px] md:text-xs text-gray-500">Avg. Certified Coverage</div>
         </div>
       </div>
 
