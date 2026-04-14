@@ -33,11 +33,11 @@ export function TimelineSlider({ year, onChange, min, max }: Props) {
   const years = Array.from({ length: max - min + 1 }, (_, i) => min + i);
 
   return (
-    <div className="bg-gray-900/90 backdrop-blur-sm rounded-xl p-4 border border-gray-700">
-      <div className="flex items-center gap-3">
+    <div className="bg-gray-900/90 backdrop-blur-sm rounded-xl p-2.5 md:p-4 border border-gray-700">
+      <div className="flex items-center gap-2 md:gap-3">
         <button
           onClick={togglePlay}
-          className="w-10 h-10 flex items-center justify-center rounded-full bg-blue-600 hover:bg-blue-500 transition-colors text-white shrink-0"
+          className="w-9 h-9 md:w-10 md:h-10 flex items-center justify-center rounded-full bg-blue-600 hover:bg-blue-500 active:bg-blue-700 transition-colors text-white shrink-0"
           title={playing ? "Pause" : "Play"}
         >
           {playing ? (
@@ -52,20 +52,20 @@ export function TimelineSlider({ year, onChange, min, max }: Props) {
           )}
         </button>
 
-        <div className="flex-1">
+        <div className="flex-1 min-w-0">
           <input
             type="range"
             min={min}
             max={max}
             value={year}
             onChange={(e) => onChange(Number(e.target.value))}
-            className="w-full h-2 bg-gray-700 rounded-lg appearance-none cursor-pointer accent-blue-500"
+            className="w-full h-2 bg-gray-700 rounded-lg appearance-none cursor-pointer accent-blue-500 touch-none"
           />
           <div className="flex justify-between mt-1">
             {years.map((y) => (
               <span
                 key={y}
-                className={`text-[10px] ${
+                className={`text-[8px] md:text-[10px] ${
                   y === year ? "text-blue-400 font-bold" : y > 2025 ? "text-yellow-500/60" : "text-gray-500"
                 }`}
               >

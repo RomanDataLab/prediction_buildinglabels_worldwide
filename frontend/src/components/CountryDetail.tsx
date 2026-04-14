@@ -217,7 +217,7 @@ export function CountryDetail({ iso2, data, year, onClose }: Props) {
               </div>
             </div>
           )}
-        <div className="grid grid-cols-3 gap-2">
+        <div className="grid grid-cols-2 sm:grid-cols-3 gap-2">
           {certs.map((cert) => (
             <div key={cert.key} className="bg-gray-900 rounded-lg p-2 text-center">
               <div

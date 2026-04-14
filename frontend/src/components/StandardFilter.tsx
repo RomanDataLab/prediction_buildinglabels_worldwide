@@ -74,7 +74,7 @@ export function StandardFilter({ active, onChange, standards, data }: Props) {
             <button
               key={std.key}
               onClick={() => onChange(isActive ? null : std.key)}
-              className={`min-w-[96px] flex-1 flex flex-col items-center gap-1 py-2.5 px-2 rounded-lg border transition-all ${
+              className={`min-w-[80px] md:min-w-[96px] flex-1 flex flex-col items-center gap-1 py-2 md:py-2.5 px-1.5 md:px-2 rounded-lg border transition-all ${
                 isActive
                   ? "border-opacity-100 bg-opacity-20"
                   : "border-gray-700 bg-gray-900 hover:bg-gray-700/50"

@@ -54,7 +54,7 @@ export function RankingTable({ data, selectedCountry, onCountryClick }: Props) {
         Country Rankings
       </h3>
 
-      <div className="max-h-[400px] overflow-y-auto">
+      <div className="max-h-[300px] md:max-h-[400px] overflow-y-auto">
         <table className="w-full text-sm">
           <thead className="sticky top-0 bg-gray-800 z-10">
             <tr className="border-b border-gray-700">
