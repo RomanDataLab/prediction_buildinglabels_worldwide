@@ -26,3 +26,6 @@ frontend/yarn-error.log*
 frontend/.vercel/
 backend/.vercel/
 
+# Project docs (local only)
+graph.md
+
